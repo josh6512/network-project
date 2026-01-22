@@ -1,0 +1,6 @@
+msg_id,app_protocol,src_app,dst_app,message,timestamp,src_port,dst_port
+1,HTTP,client_browser,web_server,"[PROJECT-GROUP-01] GET /index.html HTTP/1.1",0.015,50100,80
+2,HTTP,client_browser,web_server,"[PROJECT-GROUP-01] GET /style.css HTTP/1.1",0.005,50101,80
+3,HTTP,client_browser,web_server,"[PROJECT-GROUP-01] POST /submit_form HTTP/1.1",0.010,50102,80
+4,FTP,file_client,file_server,"[PROJECT-GROUP-01] USER admin; RETR homework.doc",0.020,40500,21
+5,DNS,user_pc,dns_server,"[PROJECT-GROUP-01] query google.com",0.030,33000,53
