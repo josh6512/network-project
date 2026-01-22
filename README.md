@@ -6,7 +6,7 @@
 
 **Course:** Computer Networks
 
-**Group:** 01 
+**Group:** 02 
 
 **Project Overview**
 
